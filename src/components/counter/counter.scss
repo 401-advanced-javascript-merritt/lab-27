@@ -1,0 +1,28 @@
+section{
+  text-align: center;
+  font-size: 50px;
+  margin-top: 200px;
+
+  a{
+    padding: 2em;
+    margin: 2em;
+    color: white;
+    text-decoration: none;
+    border-radius: 5%;
+    &.up{
+      background-color: blue;
+      &:hover{
+        background-color: lightblue;
+      }
+    }
+    &.down{
+      background-color: red;
+      &:hover{
+        background-color: rgb(255, 100, 100);
+      }
+    }
+  }
+  span{
+    font-size: 100px;
+  }
+}
