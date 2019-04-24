@@ -3,6 +3,7 @@ db
 .env
 temp
 build
+!styleguide/build
 aws.yml
 *.crt
 *.key
