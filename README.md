@@ -60,5 +60,5 @@ Netlify Link:
 * What assertions need to be / should be made?
   * The snapshot should pass.
   
-#### UML
+#### UML - Credit to Aaron & Cory for help.
 ![uml](./assets/uml.jpg)
