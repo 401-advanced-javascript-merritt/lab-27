@@ -61,4 +61,4 @@ Netlify Link:
   * The snapshot should pass.
   
 #### UML
-[uml](./uml.jpg)
+![uml](./assets/uml.jpg)
