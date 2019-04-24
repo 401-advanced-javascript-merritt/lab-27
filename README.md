@@ -9,7 +9,7 @@
 ### Chris Merritt
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/401-advanced-javascript-merritt/lab-27/pull/2)
 
 AWS Buckets link: 
 * [link](http://merrittlab27.s3-website-us-west-2.amazonaws.com/)
